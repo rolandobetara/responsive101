@@ -1,0 +1,26 @@
+#nav {
+	background-color: #2fbc50;
+}
+
+#mid-con{
+	margin-top: 60px;
+}
+
+#footer{
+	margin-bottom: 0;
+}
+
+.glyphicon{
+	line-height: 0;
+}
+.page-header{
+	margin-top: 0;
+}
+.panel-body{
+	padding-top: 0;
+}
+.featuredImg{
+	margin-bottom: 15px;
+	width: 100%;
+	height:15em;
+}
